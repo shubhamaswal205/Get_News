@@ -36,3 +36,4 @@ A bit overview, it uses newsapi.org API to get news and get JSON data back. Then
 #### License
 GNU General Public License v3.0
 "# Get_News" 
+"# Get_News" 
